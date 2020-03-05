@@ -3,7 +3,7 @@ using Xunit;
 using Shouldly;
 using TestStack.BDDfy;
 
-namespace Chromadream.DefaultParse.Tests
+namespace Chromadream.DefaultParser.Tests
 {
     public class ParserUnitTest
     {

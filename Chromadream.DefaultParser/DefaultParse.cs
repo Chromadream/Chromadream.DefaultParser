@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace Chromadream.DefaultParse
+namespace Chromadream.DefaultParser
 {
     public class DefaultParser
     {

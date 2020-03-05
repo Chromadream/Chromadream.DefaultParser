@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Chromadream.DefaultParse\Chromadream.DefaultParse.csproj" />
+    <ProjectReference Include="..\Chromadream.DefaultParser\Chromadream.DefaultParser.csproj" />
   </ItemGroup>
 
 </Project>

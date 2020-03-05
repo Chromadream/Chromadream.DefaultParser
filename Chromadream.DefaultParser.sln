@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chromadream.DefaultParse", "Chromadream.DefaultParse\Chromadream.DefaultParse.csproj", "{F030D1C1-7DC7-49E7-9CB7-D4884C50B8E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chromadream.DefaultParser", "Chromadream.DefaultParser\Chromadream.DefaultParser.csproj", "{F030D1C1-7DC7-49E7-9CB7-D4884C50B8E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chromadream.DefaultParse.Tests", "Chromadream.DefaultParse.Tests\Chromadream.DefaultParse.Tests.csproj", "{A09C9B9C-2B49-4508-A06B-F31788B3688A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chromadream.DefaultParser.Tests", "Chromadream.DefaultParser.Tests\Chromadream.DefaultParser.Tests.csproj", "{A09C9B9C-2B49-4508-A06B-F31788B3688A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
